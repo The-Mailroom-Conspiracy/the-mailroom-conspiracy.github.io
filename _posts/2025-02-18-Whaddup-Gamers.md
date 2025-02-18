@@ -1,10 +1,6 @@
 ﻿---
 title: "Whaddup Gamers"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
+
 ---
 
 **Success Notice:** Our minimal blog hosting is ready for some content bb. Lets make em proud, yeah? ♥
